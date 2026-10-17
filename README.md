@@ -33,7 +33,7 @@ Farm-equipment rental marketplace. Shipped a rental-extension billing feature en
 | **[MeloLearn](https://github.com/Harshbv/MeloLearn)** | Music-learning platform with audio editing tools and a content-ranking leaderboard | JavaScript · Express.js |
 
 **Research & coursework**
-- **[Controlled Persistent Memory for LLM Assistants](https://github.com/rajius2024/controlled_persistent_memory):** co-authored a paper on a write-routed, versioned memory architecture. Evaluated on 588 PersonaMem episodes, it reached 66% accuracy while storing ~60% fewer memories than vanilla RAG.
+- **[Controlled Persistent Memory for LLM Assistants](https://github.com/Harshbv/controlled_persistent_memory):** co-authored a paper on a write-routed, versioned memory architecture. Evaluated on 588 PersonaMem episodes, it reached 66% accuracy while storing ~60% fewer memories than vanilla RAG.
 - **Clickless:** a three-agent Planner → Retriever/Ranker → Explainer shopping assistant over 25–30 GB of Amazon product data, reaching **92% precision@50**.
 - 📄 *OTP Verification & Zero Trust Security for RBAC in Medical Records*, **ICSTSN 2024**
 
