@@ -29,7 +29,7 @@ Farm-equipment rental marketplace. Shipped a rental-extension billing feature en
 | **[Roomies](https://github.com/Harshbv/Roommate-User-App)** | Full-stack apartment & roommate manager covering expense splitting, rent, chores, maintenance, presence and group chat | JavaScript · Node.js |
 | **[COMPAS Fairness Audit](https://github.com/Harshbv/compas-fairness-audit)** | Audits a criminal-risk model for bias across race and gender, checks calibration, and routes sensitive cases to human review | Next.js · FastAPI · Python |
 | **[LinkedIn Post Generator](https://github.com/Harshbv/LinkedIn-Post-Generator)** | Few-shot LLM app with tone, length, language and audience controls | Python · LangChain · Groq · Streamlit |
-| **[Where Did the Forest Go?](https://github.com/Harshbv/where-did-the-forest-go)** | Maps Amazon deforestation from free Sentinel-2 satellite images. A U-Net I trained from scratch finds forest with **0.91 IoU**, then comparing 2021 and 2026 reveals **8,705 ha** cleared. Validated by hand on 300 stratified random points (**87% overall accuracy**), shown on an interactive map | Python · PyTorch · GeoPandas · Folium |
+| **[Where Did the Forest Go?](https://github.com/Harshbv/where-did-the-forest-go)** | Maps Amazon deforestation from free Sentinel-2 satellite images with a U-Net. Hand-checked on 600 blind, stratified points; switching the training labels to MapBiomas raised precision for cleared forest from **59% to 88%** (92% overall accuracy), estimating **about 6,800 ha** cleared from 2021 to 2026 | Python · PyTorch · GeoPandas · Folium |
 | **[MeloLearn](https://github.com/Harshbv/MeloLearn)** | Music-learning platform with audio editing tools and a content-ranking leaderboard | JavaScript · Express.js |
 
 **Research & coursework**
